@@ -6,7 +6,7 @@
 
 | Задание | Выполнение | Баллы |
 | ------ | ------ | ------ |
-| Задание 1 | # | 60 |
+| Задание 1 | * | 60 |
 | Задание 2 | # | 20 |
 | Задание 3 | # | 20 |
 
@@ -36,6 +36,10 @@
 ![image](https://user-images.githubusercontent.com/101344196/200177971-2cb54d68-0358-4a74-97aa-1b6eafd2b517.png)
 
 ![image](https://user-images.githubusercontent.com/101344196/200179476-0ab45b77-f0c2-4a6d-b2b5-068594338248.png)
+
+![image](https://user-images.githubusercontent.com/101344196/201158663-dde14ef2-ff78-412f-b460-5751f872106a.png)
+
+![image](https://user-images.githubusercontent.com/101344196/201161688-915fa392-d22e-482b-8cd3-18b948842f95.png)
 
 
 ## Задание 2
